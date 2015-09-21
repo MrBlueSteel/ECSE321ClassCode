@@ -1,0 +1,9 @@
+<manager id="1">
+  <registrations id="2"/>
+  <participant id="3">
+    <participant id="4">
+      <name>Oscar</name>
+    </participant>
+  </participant>
+  <events id="5"/>
+</manager>

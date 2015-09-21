@@ -1,0 +1,27 @@
+<manager id="1">
+  <registrations id="2"/>
+  <participant id="3">
+    <participant id="4">
+      <name>Ronny</name>
+    </participant>
+    <participant id="5">
+      <name>&amp;^%$</name>
+    </participant>
+    <participant id="6">
+      <name>12345</name>
+    </participant>
+    <participant id="7">
+      <name>Giuseppe</name>
+    </participant>
+    <participant id="8">
+      <name>Laoshi</name>
+    </participant>
+    <participant id="9">
+      <name>Kurt</name>
+    </participant>
+    <participant id="10">
+      <name>FOREVER DEAD</name>
+    </participant>
+  </participant>
+  <events id="11"/>
+</manager>
